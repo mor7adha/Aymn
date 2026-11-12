@@ -1,0 +1,5 @@
+# The site is plain HTML/CSS/JavaScript; no build step is required.
+[build]
+  base = "."
+  command = ""
+  publish = "dist"
