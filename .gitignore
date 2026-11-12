@@ -1,0 +1,7 @@
+qa/browser-profile/
+qa/*.png
+qa/*.pdf
+qa/report.json
+*.zip
+
+qa/
